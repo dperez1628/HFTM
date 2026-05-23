@@ -1,4 +1,4 @@
-package com.hftm;
+package com.hftm.hftm;
 
 import org.springframework.boot.SpringApplication;
 
